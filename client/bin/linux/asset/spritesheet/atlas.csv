@@ -1,0 +1,8 @@
+atlas_name, atlas_packed_count, atlas_wasted_pixels, atlas_width, atlas_height, texture_name, texture_rotated_90, texture_width, texture_height, texture_x_offset, texture_y_offset
+asset/spritesheet/atlas_0.png, 7, 1024, 32, 256, asset/sprite/worm_move0.png, 0, 32, 32, 0, 0
+asset/spritesheet/atlas_0.png, 7, 1024, 32, 256, asset/sprite/worm_move1.png, 0, 32, 32, 0, 32
+asset/spritesheet/atlas_0.png, 7, 1024, 32, 256, asset/sprite/worm_move2.png, 0, 32, 32, 0, 64
+asset/spritesheet/atlas_0.png, 7, 1024, 32, 256, asset/sprite/worm_move3.png, 0, 32, 32, 0, 96
+asset/spritesheet/atlas_0.png, 7, 1024, 32, 256, asset/sprite/worm_move4.png, 0, 32, 32, 0, 128
+asset/spritesheet/atlas_0.png, 7, 1024, 32, 256, asset/sprite/worm_move5.png, 0, 32, 32, 0, 160
+asset/spritesheet/atlas_0.png, 7, 1024, 32, 256, asset/sprite/worm_move6.png, 0, 32, 32, 0, 192
